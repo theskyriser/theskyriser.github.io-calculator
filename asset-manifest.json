@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theskyriser.github.io-calculator/static/css/main.48d17ae5.css",
+    "main.js": "/theskyriser.github.io-calculator/static/js/main.1f476dcf.js",
+    "static/js/787.a174f9e5.chunk.js": "/theskyriser.github.io-calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/theskyriser.github.io-calculator/index.html",
+    "main.48d17ae5.css.map": "/theskyriser.github.io-calculator/static/css/main.48d17ae5.css.map",
+    "main.1f476dcf.js.map": "/theskyriser.github.io-calculator/static/js/main.1f476dcf.js.map",
+    "787.a174f9e5.chunk.js.map": "/theskyriser.github.io-calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d17ae5.css",
+    "static/js/main.1f476dcf.js"
+  ]
+}
